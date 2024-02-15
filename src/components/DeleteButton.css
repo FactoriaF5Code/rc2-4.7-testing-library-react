@@ -1,0 +1,8 @@
+.delete-button .words {
+    display: none;
+}
+
+
+.delete-button:hover .words {
+    display: block;
+}

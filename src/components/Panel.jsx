@@ -1,4 +1,5 @@
-import { useState } from "react"
+import { useState } from "react";
+import "./DeleteButton.css";
 
 export const Panel = () => {
     const [text, setText] = useState("");

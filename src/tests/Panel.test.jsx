@@ -16,3 +16,4 @@ test("El panel muestra un mensaje si pulsamos el botón", () => {
     expect(screen.queryByText("Hola!")).toBeInTheDocument();
 });
 
+
